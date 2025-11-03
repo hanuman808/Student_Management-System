@@ -1,0 +1,108 @@
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 1
+Enter Name: Hanuman
+Enter Email: hanuman80@gmail.com
+Enter Phone: 1234567898
+Student Added Successfully
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 2
+Student [id=2, studentName=Hari, email=haro12@gmail.com, phone=2345685353]
+Student [id=3, studentName=Ram, email=ram24@gmail.com, phone=1234567890]
+Student [id=4, studentName=Rahul Sharma, email=rahul.sharma@example.com, phone=9876543210]
+Student [id=5, studentName=Priya Mehta, email=priya.mehta@example.com, phone=9123456789]
+Student [id=6, studentName=Amit Verma, email=amit.verma@example.com, phone=9988776655]
+Student [id=7, studentName=Sneha Kapoor, email=sneha.kapoor@example.com, phone=9090909090]
+Student [id=8, studentName=Arjun Nair, email=arjun.nair@example.com, phone=9876501234]
+Student [id=9, studentName=Hanuman, email=hanuman80@gmail.com, phone=1234567898]
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 3
+Enter Student ID: 3
+Student [id=3, studentName=Ram, email=ram24@gmail.com, phone=1234567890]
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 4
+Enter Student ID to Update: 3
+Enter New Name: Avinash
+Enter New Email: avinash24@gmail.com
+Enter New Phone: 2345678901
+Student Updated Successfully
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 2
+Student [id=2, studentName=Hari, email=haro12@gmail.com, phone=2345685353]
+Student [id=3, studentName=Avinash, email=avinash24@gmail.com, phone=2345678901]
+Student [id=4, studentName=Rahul Sharma, email=rahul.sharma@example.com, phone=9876543210]
+Student [id=5, studentName=Priya Mehta, email=priya.mehta@example.com, phone=9123456789]
+Student [id=6, studentName=Amit Verma, email=amit.verma@example.com, phone=9988776655]
+Student [id=7, studentName=Sneha Kapoor, email=sneha.kapoor@example.com, phone=9090909090]
+Student [id=8, studentName=Arjun Nair, email=arjun.nair@example.com, phone=9876501234]
+Student [id=9, studentName=Hanuman, email=hanuman80@gmail.com, phone=1234567898]
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 5
+Enter Student ID to Delete: 9
+Student Deleted Successfully
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 2
+Student [id=2, studentName=Hari, email=haro12@gmail.com, phone=2345685353]
+Student [id=3, studentName=Avinash, email=avinash24@gmail.com, phone=2345678901]
+Student [id=4, studentName=Rahul Sharma, email=rahul.sharma@example.com, phone=9876543210]
+Student [id=5, studentName=Priya Mehta, email=priya.mehta@example.com, phone=9123456789]
+Student [id=6, studentName=Amit Verma, email=amit.verma@example.com, phone=9988776655]
+Student [id=7, studentName=Sneha Kapoor, email=sneha.kapoor@example.com, phone=9090909090]
+Student [id=8, studentName=Arjun Nair, email=arjun.nair@example.com, phone=9876501234]
+
+=== Student Management System ===
+1. Add Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Exit
+Enter your choice: 6
+Exiting...
